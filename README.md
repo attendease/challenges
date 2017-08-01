@@ -7,8 +7,8 @@ The Platform team has been tasked with building a new feature! At the request of
 ## The Task: 
 For the MVP of this feature, the team would like to see this feature meet the following requirements:
 - Each event listing should have the following fields (`name`, `days of the event`, `venue`, `url`)
-- Ability to filter the events by `name` (Alphabetically, A-Z)
-- Ability to filter the events by `date`. 
+- Ability to sort the events by `name` (Alphabetically, A-Z)
+- Ability to sort the events by `date`. 
 - Ability to `remove` an event listing from the collection. (No need to hit the API here, we still want to see it again if we refresh the page.)
 - Ability to reset all the above functionality to revert the listing to its original state. 
 
