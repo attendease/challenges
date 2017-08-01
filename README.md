@@ -28,8 +28,8 @@ Bonus points if you deploy this via `Heroku` ;)
 
 ## Pro Tips:  
 We will be evaluating you on the following criteria
-40% Correctness/logic
-40% Code quality/clarity,patterns
-20% Process (commit messages, tests, output, task, environment/modules)
+- 40% Correctness/logic
+- 40% Code quality/clarity,patterns
+- 20% Process (commit messages, tests, output, task, environment/modules)
 
 Please let us know if you have any questions or concerns! 
